@@ -3,4 +3,17 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="appColor">#f68521</color>
+    <color name="skipColor">#F89638</color>
+    <color name="viewLine">#e6e7e8</color>
+    <color name="box_grey">#5c5e5e</color>
+    <color name="app_background">#f6f6f6</color>
+
+
+
+    <color name="white">@android:color/white</color>
+    <color name="black">@android:color/black</color>
+    <color name="facebook_blue">#4A6EAD</color>
+    <color name="bottom_navigation">#e1e2e1</color>
+    <color name="app_background_light_white">#e1e2e1</color>
 </resources>
